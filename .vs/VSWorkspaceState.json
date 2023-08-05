@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ToDoListProjeto",
+    "\\ToDoListProjeto\\Src",
+    "\\ToDoListProjeto\\Src\\ToDoList.Api",
+    "\\ToDoListProjeto\\Src\\ToDoList.Business",
+    "\\ToDoListProjeto\\Src\\ToDoList.Data"
+  ],
+  "SelectedNode": "\\ToDoListProjeto\\Src\\ToDoList.Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
